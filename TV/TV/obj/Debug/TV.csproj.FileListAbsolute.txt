@@ -1,0 +1,9 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\TV\TV\bin\Debug\TV.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\TV\TV\bin\Debug\TV.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\TV\TV\bin\Debug\TV.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\TV\TV\obj\Debug\TV.csprojResolveAssemblyReference.cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\TV\TV\obj\Debug\TV.Form1.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\TV\TV\obj\Debug\TV.Properties.Resources.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\TV\TV\obj\Debug\TV.csproj.GenerateResource.Cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\TV\TV\obj\Debug\TV.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\TV\TV\obj\Debug\TV.pdb
