@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book id ="001">
+    <bookname>《堂吉诃德》</bookname>
+    <bookprice>50</bookprice>
+    <zuozhe>？？</zuozhe>
+  
+</book>
+  <book id="002">
+    <bookname>《间客》</bookname>
+    <bookprice>30</bookprice>
+    <zuozhe>猫腻</zuozhe>
+  </book>
+</books>

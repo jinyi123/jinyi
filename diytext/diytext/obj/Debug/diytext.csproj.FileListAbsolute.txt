@@ -1,0 +1,11 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\bin\Debug\diytext.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\bin\Debug\diytext.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\bin\Debug\diytext.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\obj\Debug\diytext.csprojResolveAssemblyReference.cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\obj\Debug\diytext.Form1.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\obj\Debug\diytext.Properties.Resources.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\obj\Debug\diytext.csproj.GenerateResource.Cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\obj\Debug\diytext.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\obj\Debug\diytext.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\obj\Debug\diytext.Text.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\diytext\diytext\bin\Debug\IrisSkin4.dll

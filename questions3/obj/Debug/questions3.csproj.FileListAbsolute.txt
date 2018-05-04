@@ -1,0 +1,9 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions3\bin\Debug\questions3.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions3\bin\Debug\questions3.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions3\bin\Debug\questions3.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions3\obj\Debug\questions3.Form1.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions3\obj\Debug\questions3.Properties.Resources.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions3\obj\Debug\questions3.csproj.GenerateResource.Cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions3\obj\Debug\questions3.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions3\obj\Debug\questions3.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions3\obj\Debug\questions3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions2\bin\Debug\questions2.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions2\bin\Debug\questions2.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions2\bin\Debug\questions2.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions2\obj\Debug\questions2.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions2\obj\Debug\questions2.pdb

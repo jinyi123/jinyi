@@ -1,0 +1,6 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\Xml\Xml\bin\Debug\Xml.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\Xml\Xml\bin\Debug\Xml.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\Xml\Xml\bin\Debug\Xml.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\Xml\Xml\obj\Debug\Xml.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\Xml\Xml\obj\Debug\Xml.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\Xml\Xml\obj\Debug\Xml.csprojResolveAssemblyReference.cache

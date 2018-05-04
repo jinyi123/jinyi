@@ -1,0 +1,6 @@
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX2\bin\Debug\day05_EX2.exe.config
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX2\bin\Debug\day05_EX2.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX2\bin\Debug\day05_EX2.pdb
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX2\obj\Debug\day05_EX2.csprojResolveAssemblyReference.cache
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX2\obj\Debug\day05_EX2.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX2\obj\Debug\day05_EX2.pdb

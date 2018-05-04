@@ -1,0 +1,6 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\jiekou1\jiekou1\bin\Debug\jiekou1.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\jiekou1\jiekou1\bin\Debug\jiekou1.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\jiekou1\jiekou1\bin\Debug\jiekou1.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\jiekou1\jiekou1\obj\Debug\jiekou1.csprojResolveAssemblyReference.cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\jiekou1\jiekou1\obj\Debug\jiekou1.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\jiekou1\jiekou1\obj\Debug\jiekou1.pdb

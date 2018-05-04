@@ -1,0 +1,5 @@
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_10000\bin\Debug\day05_10000.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\day05_10000\bin\Debug\day05_10000.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\day05_10000\bin\Debug\day05_10000.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\day05_10000\obj\Debug\day05_10000.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\day05_10000\obj\Debug\day05_10000.pdb

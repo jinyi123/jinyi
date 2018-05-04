@@ -1,0 +1,13 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\bin\Debug\ABC.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\bin\Debug\ABC.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\bin\Debug\ABC.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\bin\Debug\IrisSkin4.dll
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\obj\Debug\ABC.Form1.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\obj\Debug\ABC.Properties.Resources.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\obj\Debug\ABC.csproj.GenerateResource.Cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\obj\Debug\ABC.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\obj\Debug\ABC.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\obj\Debug\ABC.Form2.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\obj\Debug\ABC.sada.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\bin\Debug\HelloCsharp.WinFormUI.dll
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\ABC\ABC\obj\Debug\ABC.csprojResolveAssemblyReference.cache

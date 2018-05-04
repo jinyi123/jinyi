@@ -1,0 +1,11 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\bin\Debug\test2.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\bin\Debug\test2.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\bin\Debug\test2.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\obj\Debug\test2.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\obj\Debug\test2.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\bin\Debug\HelloCsharp.WinFormUI.dll
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\obj\Debug\test.Form1.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\test2\test2\obj\Debug\test2.Form2.resources

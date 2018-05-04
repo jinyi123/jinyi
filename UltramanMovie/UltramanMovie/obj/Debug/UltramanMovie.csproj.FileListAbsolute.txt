@@ -1,0 +1,9 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\UltramanMovie\UltramanMovie\bin\Debug\UltramanMovie.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\UltramanMovie\UltramanMovie\bin\Debug\UltramanMovie.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\UltramanMovie\UltramanMovie\bin\Debug\UltramanMovie.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\UltramanMovie\UltramanMovie\obj\Debug\UltramanMovie.frmmovie.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\UltramanMovie\UltramanMovie\obj\Debug\UltramanMovie.Properties.Resources.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\UltramanMovie\UltramanMovie\obj\Debug\UltramanMovie.csproj.GenerateResource.Cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\UltramanMovie\UltramanMovie\obj\Debug\UltramanMovie.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\UltramanMovie\UltramanMovie\obj\Debug\UltramanMovie.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\UltramanMovie\UltramanMovie\obj\Debug\UltramanMovie.csprojResolveAssemblyReference.cache

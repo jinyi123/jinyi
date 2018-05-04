@@ -1,0 +1,11 @@
+c:\users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\bin\Debug\S2230NET.exe.config
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\bin\Debug\S2230NET.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\bin\Debug\S2230NET.pdb
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\obj\Debug\S2230NET.csprojResolveAssemblyReference.cache
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\obj\Debug\S2230NET.frmMain.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\obj\Debug\S2230NET.Properties.Resources.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\obj\Debug\S2230NET.csproj.GenerateResource.Cache
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\obj\Debug\S2230NET.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\obj\Debug\S2230NET.pdb
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\obj\Debug\S2230NET.frmInsertUser.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\S2230NET\obj\Debug\S2230NET.frmGame.resources

@@ -1,0 +1,11 @@
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\bin\Debug\day03_00002.exe.config
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\bin\Debug\day03_00002.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\bin\Debug\day03_00002.pdb
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\obj\Debug\day03_00002.csprojResolveAssemblyReference.cache
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\obj\Debug\day03_00002.frmMain.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\obj\Debug\day03_00002.Properties.Resources.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\obj\Debug\day03_00002.csproj.GenerateResource.Cache
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\obj\Debug\day03_00002.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\obj\Debug\day03_00002.pdb
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\obj\Debug\day03_00002.frmSelect.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day03_00002\obj\Debug\day03_00002.frmSign.resources

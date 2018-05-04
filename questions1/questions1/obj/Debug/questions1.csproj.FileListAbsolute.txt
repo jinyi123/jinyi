@@ -1,0 +1,9 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions1\questions1\bin\Debug\questions1.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions1\questions1\bin\Debug\questions1.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions1\questions1\bin\Debug\questions1.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions1\questions1\obj\Debug\questions1.csprojResolveAssemblyReference.cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions1\questions1\obj\Debug\questions1.frmTravel.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions1\questions1\obj\Debug\questions1.Properties.Resources.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions1\questions1\obj\Debug\questions1.csproj.GenerateResource.Cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions1\questions1\obj\Debug\questions1.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\questions1\questions1\obj\Debug\questions1.pdb

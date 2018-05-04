@@ -1,0 +1,15 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\bin\Debug\player.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\bin\Debug\player.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\bin\Debug\player.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\player.csprojResolveAssemblyReference.cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\player.Form1.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\player.Properties.Resources.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\player.csproj.GenerateResource.Cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\player.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\player.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\bin\Debug\Interop.WMPLib.dll
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\Interop.WMPLib.dll
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\player.csproj.ResolveComReference.cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\player\player\obj\Debug\player.player.resources

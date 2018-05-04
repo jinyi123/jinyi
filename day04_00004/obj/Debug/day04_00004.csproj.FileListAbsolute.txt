@@ -1,0 +1,6 @@
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day04_00004\bin\Debug\day04_00004.exe.config
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day04_00004\obj\Debug\day04_00004.csprojResolveAssemblyReference.cache
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day04_00004\bin\Debug\day04_00004.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day04_00004\bin\Debug\day04_00004.pdb
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day04_00004\obj\Debug\day04_00004.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day04_00004\obj\Debug\day04_00004.pdb

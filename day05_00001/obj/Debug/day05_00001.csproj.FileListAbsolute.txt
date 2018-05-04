@@ -1,0 +1,8 @@
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_00001\bin\Debug\day05_00001.exe.config
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_00001\bin\Debug\day05_00001.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_00001\bin\Debug\day05_00001.pdb
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_00001\obj\Debug\day05_00001.frmHealth.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_00001\obj\Debug\day05_00001.Properties.Resources.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_00001\obj\Debug\day05_00001.csproj.GenerateResource.Cache
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_00001\obj\Debug\day05_00001.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_00001\obj\Debug\day05_00001.pdb

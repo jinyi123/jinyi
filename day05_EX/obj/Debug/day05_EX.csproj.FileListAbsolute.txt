@@ -1,0 +1,9 @@
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX\bin\Debug\day05_EX.exe.config
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX\obj\Debug\day05_EX.csprojResolveAssemblyReference.cache
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX\obj\Debug\day05_EX.Form1.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX\obj\Debug\day05_EX.Properties.Resources.resources
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX\obj\Debug\day05_EX.csproj.GenerateResource.Cache
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX\bin\Debug\day05_EX.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX\bin\Debug\day05_EX.pdb
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX\obj\Debug\day05_EX.exe
+C:\Users\金沂\documents\visual studio 2012\Projects\S2230NET\day05_EX\obj\Debug\day05_EX.pdb

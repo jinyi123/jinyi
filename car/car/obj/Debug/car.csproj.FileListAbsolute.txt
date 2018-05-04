@@ -1,0 +1,10 @@
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\bin\Debug\car.exe.config
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\bin\Debug\car.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\bin\Debug\car.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\obj\Debug\car.csprojResolveAssemblyReference.cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\obj\Debug\car.Properties.Resources.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\obj\Debug\car.csproj.GenerateResource.Cache
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\obj\Debug\car.exe
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\obj\Debug\car.pdb
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\obj\Debug\car.frmCar.resources
+C:\Users\金沂\Documents\Visual Studio 2012\Projects\S2230NET\car\car\obj\Debug\car.Form1.resources
